@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845883834141",
+    "firebase_url": "https://proyecto-de-practica-4a933-default-rtdb.firebaseio.com",
+    "project_id": "proyecto-de-practica-4a933",
+    "storage_bucket": "proyecto-de-practica-4a933.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845883834141:android:a286f14bce6b7d53542bf4",
+        "android_client_info": {
+          "package_name": "com.example.pc2arteagamovil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845883834141-0qqb562h6e1g4drdnhmskdrktdu1u2sd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKm9YG9THc_AJFFU__z8XjRpAvI7EfwFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845883834141-0qqb562h6e1g4drdnhmskdrktdu1u2sd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

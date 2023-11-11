@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PC2ArteagaMovil</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="titleRegistro">Registro Liga 1</string>
+    <string name="etNombre">Nombre Del Equipo</string>
+    <string name="etAño">año de fundacion</string>
+    <string name="etTitulos">Numero de titulos ganados</string>
+    <string name="etUrlImg">Url de la imagen del equipo</string>
+    <string name="btnLista">Ver lista</string>
+    <string name="btnNuevo">Nuevo Registro</string>
+    <string name="tvListado">EQUIPOS</string>
+</resources>
