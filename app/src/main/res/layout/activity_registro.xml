@@ -56,32 +56,33 @@
 
     <Button
         android:id="@+id/btnGuardar"
-        android:layout_width="199dp"
-        android:layout_height="38dp"
+        android:layout_width="202dp"
+        android:layout_height="44dp"
         android:layout_marginTop="460dp"
-        android:layout_marginEnd="104dp"
+        android:layout_marginEnd="112dp"
         android:text="@string/btnGuardar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="128dp"
-        android:layout_height="35dp"
-        android:layout_marginTop="64dp"
-        android:layout_marginEnd="140dp"
+        android:layout_width="314dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="60dp"
         android:text="@string/titleRegistro"
+        android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <Button
         android:id="@+id/btnVer"
-        android:layout_width="178dp"
-        android:layout_height="47dp"
-        android:layout_marginTop="520dp"
+        android:layout_width="205dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="528dp"
         android:text="@string/btnLista"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.557"
+        app:layout_constraintHorizontal_bias="0.467"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>

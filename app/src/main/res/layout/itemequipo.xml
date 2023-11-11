@@ -10,7 +10,7 @@
         android:id="@+id/ivEquipo"
         android:layout_width="150dp"
         android:layout_height="100dp"
-        android:layout_marginStart="16dp"
+        android:layout_marginStart="4dp"
         android:layout_marginTop="32dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -20,8 +20,8 @@
         android:id="@+id/tvNombre"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="4dp"
-        android:layout_marginTop="84dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="44dp"
         android:text="TextView"
         app:layout_constraintStart_toEndOf="@+id/ivEquipo"
         app:layout_constraintTop_toTopOf="parent" />
@@ -30,10 +30,10 @@
         android:id="@+id/tvTitulos"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="84dp"
+        android:layout_marginTop="64dp"
         android:layout_marginEnd="16dp"
         android:text="TextView"
-        android:textSize="20sp"
+        android:textSize="34sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -45,6 +45,7 @@
         android:layout_marginStart="64dp"
         android:layout_marginTop="4dp"
         android:text="TextView"
+        android:textSize="16sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/ivEquipo" />
 </androidx.constraintlayout.widget.ConstraintLayout>
